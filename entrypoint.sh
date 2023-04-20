@@ -46,10 +46,6 @@ Argo_xray_trojan="trojan://${uuid}@${ARGO}:443?security=tls&type=ws&host=${ARGO}
 
 cat > log << EOF
 ****************************************************************
-相关教程解读，请关注：甬哥侃侃侃
-视频教程：https://www.youtube.com/@ygkkk
-博客地址：https://ygkkk.blogspot.com
-================================================================
 当前已安装的Xray正式版本：$xver
 当前网络的IP：$v4
 IP归属地区：$v4l
