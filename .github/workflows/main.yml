@@ -32,4 +32,3 @@ jobs:
           push: true
           platforms: linux/amd64
           tags: ${{ env.DOCKERHUB_REPOSITORY }}
-          
